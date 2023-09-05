@@ -1,2 +1,3 @@
 # Python
-Starting with Python
+
+The basics of learning Python. 
